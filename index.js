@@ -330,4 +330,5 @@ window.addEventListener('keyup', (event) => {
       keys.ArrowLeft.pressed = false
       break
   }
+     <button id="returnButton">Return Home</button>
 })
