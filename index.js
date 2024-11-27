@@ -1,4 +1,4 @@
-<button id="returnButton">Return Home</button>
+
 const canvas = document.querySelector('canvas')
 const c = canvas.getContext('2d')
 
@@ -330,5 +330,5 @@ window.addEventListener('keyup', (event) => {
       keys.ArrowLeft.pressed = false
       break
   }
-     <button id="returnButton">Return Home</button>
+   
 })
